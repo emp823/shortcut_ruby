@@ -1,5 +1,7 @@
 # ShortcutRuby
 
+[![Changelog](https://img.shields.io/badge/DoubleLoop-Changelog-blue)](https://app.doubleloop.app/p/DoubleLoop/673)
+
 ShortcutRuby is a lightweight Ruby wrapper of the
 [Shortcut REST API](https://shortcut.com/api/rest/v3).
 
