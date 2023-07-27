@@ -58,6 +58,10 @@ module ShortcutRuby
       path: :bulk,
       action: :Put
     },
+    epic_workflow: {
+      path: "epic-workflow",
+      action: :Get
+    },
     search_stories: {
       path: 'search/stories',
       action: :Get
