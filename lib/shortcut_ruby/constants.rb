@@ -61,6 +61,18 @@ module ShortcutRuby
     search_stories: {
       path: 'search/stories',
       action: :Get
+    },
+    search_epics: {
+      path: 'search/epics',
+      action: :Get
+    },
+    search_iterations: {
+      path: 'search/iterations',
+      action: :Get
+    },
+    search_milestones: {
+      path: 'search/milestones',
+      action: :Get
     }
   }.freeze
 end
